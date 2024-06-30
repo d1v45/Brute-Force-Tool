@@ -1,4 +1,3 @@
-```markdown
 # Brute Force Login Tool
 
 This project is a brute force login tool that attempts to log in to a target website using a list of usernames and passwords. It has both automatic and manual modes to extract and use form fields for login attempts.
