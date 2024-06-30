@@ -18,14 +18,14 @@ This project is a brute force login tool that attempts to log in to a target web
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/bruteforce-login-tool.git
-   cd bruteforce-login-tool
+   ```python
+   git clone https://github.com/d1v45/Brute-Force-Tool.git
+   cd Brute-Force-Tool
    ```
 
 2. Install the required libraries:
-   ```bash
-   pip install requests lxml
+   ```python
+   pip install requests
    ```
 
 ## Usage
