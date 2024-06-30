@@ -68,13 +68,3 @@ This tool is for educational purposes only. Unauthorized use of this tool is ill
 
 This project is licensed under the MIT License.
 ```
-
-### Explanation:
-1. **Project Description**: Describes the project and its features.
-2. **Requirements**: Lists the dependencies.
-3. **Installation**: Provides steps to set up the project.
-4. **Usage**: Explains how to use the tool and the difference between manual and automatic modes.
-5. **Logging and Results**: Describes where logs and results are stored.
-6. **Disclaimer**: States the ethical use of the tool.
-7. **Author**: Credits the author.
-8. **License**: Indicates the project is licensed under the MIT License.
